@@ -1,4 +1,4 @@
-This repository contains Microsoft Excel workbooks of various datasets and aims to clean raw data and perform comprehensive analysis presenting insights via an interactive dashboard.
+This repository contains projects created in Excel, Tableau, Power BI and other tools. It utilizes various datasets and aims to clean raw data and perform comprehensive analysis presenting insights via Interactive dashboards and visualizations.
 
 - **18/12/2024**: Added analysis of a Gym dataset ([source](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset)).
   - Raw data is first prepared by checking for and cleaning any anomalies.
